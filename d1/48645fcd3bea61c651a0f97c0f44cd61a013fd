@@ -1,0 +1,74 @@
+docs/SRS.md
+  s_0cd3bbf386f5dc::t_7b272e928ab22e 686-688
+  s_0cd3bbf386f5dc::t_12916a332920eb 434
+  s_0cd3bbf386f5dc::t_2091d0f860c449 30-42
+  s_0cd3bbf386f5dc::t_4f068e7577650e 150-152
+  s_0cd3bbf386f5dc::t_7f10a83cc59a5f 346-347,350-353
+  s_0cd3bbf386f5dc::t_c28567871997d8 1-5,7-25,43-60,62-63,67-93,99-149,153,155-182,184-256,258-266,268-269,271-272,274-292,295-304,307-345,348-349,354-378,413-433,435-508,534,541-572,575-584,587-595,597-602,605-624,627-652,707-711,713-714,763,784,792,796-806,812-830,840-907,909,911-913,915-917,919-933,935-955,958-962
+  s_0cd3bbf386f5dc::t_2d12d8ea96554a 715-748,761-762,764-765,775,780,782-783,785-786,793-795,807-809
+  s_0cd3bbf386f5dc::t_fe4bfdc45e0153 94-98
+  s_0cd3bbf386f5dc::t_9d5bd5d9a78935 154
+  s_0cd3bbf386f5dc::t_9593f0a770b28d 653-660,662-666,672-685
+  s_0cd3bbf386f5dc::t_f82cfb83798e7e 625-626
+  s_0cd3bbf386f5dc::t_0daa7adeab9ae7 914
+  s_0cd3bbf386f5dc::t_68e8e50b0299e3 306
+  s_0cd3bbf386f5dc::t_f719af28971d6c 831-839
+  s_0cd3bbf386f5dc::t_23c3ef70583d27 596
+  s_0cd3bbf386f5dc::t_9abca164fdcabb 689-706
+  s_0cd3bbf386f5dc::t_03acb99e09bab1 293-294
+  s_0cd3bbf386f5dc::t_0df6f6e3b3d9a4 305
+  s_0cd3bbf386f5dc::t_c04fcce011581b 956
+  s_0cd3bbf386f5dc::t_793962c074bfcf 957
+  s_0cd3bbf386f5dc::t_916ddb6323cac1 963
+  s_0cd3bbf386f5dc::t_a840d59c8d6bee 183
+  s_0cd3bbf386f5dc::t_6cf3f21a526a29 934
+  s_0cd3bbf386f5dc::t_4699f5a26f021b 6
+  s_0cd3bbf386f5dc::t_f5ab2f36afae56 379-412
+  s_0cd3bbf386f5dc::t_5be5ea1317d276 26-29
+  s_0cd3bbf386f5dc::t_eacdbaba8adcf3 267
+  s_0cd3bbf386f5dc::t_873e5bf570ca66 603-604
+  s_0cd3bbf386f5dc::t_6312b89af77410 573-574
+  s_0cd3bbf386f5dc::t_d6f631a2a0b6e4 585-586
+  s_0cd3bbf386f5dc::t_d1f6e8338ba69e 810-811
+  s_0cd3bbf386f5dc::t_6f240bb4075929 61
+  s_0cd3bbf386f5dc::t_8e6e3e6d294f6e 712,749-760,766-774,776-779,781,787-791
+  s_0cd3bbf386f5dc::t_a7452ef37350ae 918
+  s_0cd3bbf386f5dc::t_9867565dfd22d0 908,910
+  s_0cd3bbf386f5dc::t_9c5ac884c50f7c 661,667-671
+  s_0cd3bbf386f5dc::t_3c83a140911541 257
+  s_0cd3bbf386f5dc::t_8c9a363678389f 273
+  s_0cd3bbf386f5dc::t_abbdfa35446e5e 509-533,535-540
+  s_0cd3bbf386f5dc::t_4ccdb3f152069a 64-66
+  s_0cd3bbf386f5dc::t_a37a01a6bdc7eb 270
+docs/DEV.md
+  s_0cd3bbf386f5dc::t_1b12494bdc056c 1-720
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "d148645fcd3bea61c651a0f97c0f44cd61a013fd",
+  "prompts": {},
+  "sessions": {
+    "s_0cd3bbf386f5dc": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9640dd0a294bdc9f6a2e98",
+        "model": "glm-5.2"
+      },
+      "human_author": "liuzike <liuzike2@huawei.com>",
+      "custom_attributes": {
+        "tool_type": "builtin",
+        "tool_use_id": "6a97f57f0a294bdc9f6a302c",
+        "client_type": "ide",
+        "edit_kind": "file_edit",
+        "runtime_client": "trae-tob-git-ai",
+        "session_id": "6a9640dd0a294bdc9f6a2e98",
+        "external_session_id": "6a9640dd0a294bdc9f6a2e98",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "dedupe_key": "6a9640dd0a294bdc9f6a2e98:6a97f57f0a294bdc9f6a302c:afterEdit:4933b5c4",
+        "operation_id": "6a97f57f0a294bdc9f6a302c",
+        "source_scene": "agent"
+      }
+    }
+  }
+}
